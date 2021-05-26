@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Accounts>
+  <Account>
+    <FirstName>default</FirstName>
+    <LastName>default</LastName>
+    <Age>default</Age>
+    <MobileAddress>default</MobileAddress>
+    <Birthday>- Day - - Month - - Year -</Birthday>
+    <Gender/>
+    <Email/>
+    <Username>default</Username>
+    <Password>default</Password>
+  </Account>
+  <Account>
+    <FirstName>Michael</FirstName>
+    <LastName>Fernandez</LastName>
+    <Age>25</Age>
+    <MobileAddress>09755426296</MobileAddress>
+    <Birthday>10 November 2018</Birthday>
+    <Gender>male</Gender>
+    <Email>michaelysmaelfernandez@gmail.com</Email>
+    <Username>fern1094</Username>
+    <Password>123456789</Password>
+  </Account>
+  <Account>
+    <FirstName>joyce</FirstName>
+    <LastName>Binalingbing</LastName>
+    <Age>24</Age>
+    <MobileAddress>09354679367</MobileAddress>
+    <Birthday>9 December 2018</Birthday>
+    <Gender>female</Gender>
+    <Email>ecyojoyce_09@yahoo.com</Email>
+    <Username>joyce1294</Username>
+    <Password>32165498</Password>
+  </Account>
+</Accounts>

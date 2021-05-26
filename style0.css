@@ -1,0 +1,51 @@
+
+
+.dropdown{
+ position: absolute;
+}
+
+.btn{
+ position: relative;
+ width: 200px;
+ height: 60px;
+ font-size: 24px;
+ background: #2196f3;
+ border:none;
+ box-shadow: none;
+ outline: none;
+ cursor: pointer;
+ color: #fff;
+}
+
+.drp{
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background: #ccc;
+  transform-origin: top;
+  transform: perspective(1000px) rotateX(90deg);
+  transition: 0.5s;
+}
+
+.drp.active{
+  transform: perspective(1000px) rotateX(0deg);
+}
+.drp li{
+  list-style: none;
+}
+
+.drp li a{
+  display: block;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  background: #262626;
+  color: #fff;
+  border-bottom: 1px solid rgba(0,0,0,.2);
+  transition: 0.5s;
+}
+
+.drp li a:hover{
+  background: #3413;
+}
