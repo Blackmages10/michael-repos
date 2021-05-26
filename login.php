@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Welcome to Gaming Point</title>
+    <title>Welcome to Gaming PROOOOOOOOOOOOOOO</title>
     <link rel="stylesheet" type="text/css"  href="design/style.css">
     <link rel="shortcut icon" href="design/LOGO.png">
     <script src="script.js">
